@@ -8347,10 +8347,10 @@ tslint@5.11.0:
     tslib "^1.8.0"
     tsutils "^2.27.2"
 
-tsutils@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-3.4.0.tgz#72a56f2a9eebd9bb8a38d018485ab529aa0cb113"
-  integrity sha512-lJOYR+rsCnso8k7C/D1IVSgOmJS9Ds8U4P2H7CxBtTf1w227Zg2nk+Fod8AsUzu3msg8AjZVsNBJb5QgCZsBjQ==
+tsutils@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-3.5.0.tgz#42602f7df241e753a2105cc3627a664abf11f745"
+  integrity sha512-/FZ+pEJQixWruFejFxNPRSwg+iF6aw7PYZVRqUscJ7EnzV3zieI8byfZziUR7QjCuJFulq8SEe9JcGflO4ze4Q==
   dependencies:
     tslib "^1.8.1"
 
